@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-router",
+  "name": "@doop/router",
   "version": "1.0.0",
   "description": "A router service for the Doop framework",
   "repository": {
